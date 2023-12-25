@@ -1,0 +1,12 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<questions> 
+    <question>
+        <question>¿Cual es el proposito de la abstraccion en la programacion orientada a objetos?</question>
+        <answers>
+            <answer>Ocultar la implementacion interna de una clase</answer>
+            <answer>Facilitar la herencia de las propiedades</answer>
+            <answer>Definir interfaces para las clases</answer>
+        </answers>
+    </question>
+</questions>
